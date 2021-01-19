@@ -12,3 +12,6 @@ The last number in the input is N, the position in the final pile whose value is
 Output: One integer representing the Nth card after all rounds have been played.
 
 Constraints: Number of rounds <= 10, number of piles in each round <= 13.
+
+
+solution in python
